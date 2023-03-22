@@ -17,15 +17,15 @@ Darwin also proposed a mechanism for evolution: **Natural selection**.This mecha
 **2.1 Concepts of natural selection**
 - **traits are often heritable**. This means that they are passed on from parents to offspring.
 
-- ![#f03c15](https://cdn.kastatic.org/ka-perseus-images/e39144e9fa7c35f0cea3f99544ce349d6067d4f5.png)`#f03c15`
+![img1](https://media.discordapp.net/attachments/915830242692718633/1088010637382258688/image.png?width=1440&height=499)
 
 - **More offspring are produced than can survive**. This is because not all offspring survive to adulthood. This is because of **predation**, **disease**, **competition** and **environmental factors**.
 
-![img2](https://cdn.kastatic.org/ka-perseus-images/01f4d8d205ba3fc9ba8ae6e52b826fbfb426a65a.png)
+![img2](https://media.discordapp.net/attachments/915830242692718633/1088010912901906502/image.png?width=1440&height=541)
 
 - **Offspring vary in their traits**. This is because of **mutation** and **recombination**. Mutation is the process by which a gene is changed. Recombination is the process by which genes are shuffled during the formation of gametes.
 
-![img3](https://cdn.kastatic.org/ka-perseus-images/4e357288b6a67d51562c65a66ef77ef82d2667b1.png)
+![img3](https://media.discordapp.net/attachments/915830242692718633/1088011148168798228/image.png?width=1440&height=581)
 
 - **Traits are not randomly distributed**. This is because some traits are more useful than others. For example, a bird with a longer beak is more likely to survive than a bird with a shorter beak (Under certain environmental conditions ofcourse).
 
