@@ -17,7 +17,7 @@ Darwin also proposed a mechanism for evolution: **Natural selection**.This mecha
 **2.1 Concepts of natural selection**
 - **traits are often heritable**. This means that they are passed on from parents to offspring.
 
-![img1](https://cdn.kastatic.org/ka-perseus-images/e39144e9fa7c35f0cea3f99544ce349d6067d4f5.png)
+- ![#f03c15](https://cdn.kastatic.org/ka-perseus-images/e39144e9fa7c35f0cea3f99544ce349d6067d4f5.png)`#f03c15`
 
 - **More offsprint are produced than can survive**. This is because not all offspring survive to adulthood. This is because of **predation**, **disease**, **competition** and **environmental factors**.
 
