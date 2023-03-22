@@ -9,6 +9,7 @@
 - The mechanism of evolution is **natural selection**. This is the process by which organisms with certain inherited traits are more likely to survive and reproduce than others.
 - Natural selection causes populations to become **adapted** to their environment. Adaptation is the process by which a population becomes better suited to its environment.
 - Natural selection is a **random process**. It does not favour any particular individual or trait. It is the result of the interaction of many factors, including **mutation**, **genetic drift**, **migration** and **sexual selection**.
+- Evolution for Darwin was gradual while deVries believed mutation caused speciation and hence called it **saltation**.
   
 ### 2. Natural Selection
 
@@ -46,3 +47,35 @@ The third part of the definition is **environment**. This is the surroundings in
 "The sutures(surgical stitches) in the skulls of young mammals have been advanced as a beautiful adaptation for aiding parturition (birth), and no doubt they facilitate, or may be indispensable for this act, but as sutures occur in the skulls of all mammals, and as the young of all mammals are born alive, it is clear that the sutures are not an adaptation for birth, but are an adaptation for the young to be born alive." - Charles Darwin (*The origin of species*,chapter 6).
 **preadaptation** is a feature that fortuitously(by luck) exists in an organism, but is not used for its current function. For example, the human appendix is a preadaptation. It is a vestigial organ that is no longer used for its original function. It is thought that the appendix may have been used for digestion in our ancestors, but is no longer used for this purpose.
 
+**3.2 Adaptive Radiation**
+The process of evolution of different species in a given geographical area starting from a point and literally radiating to other areas is called **adaptive radiation**.
+
+### 4. Core Concepts of Evolution
+`The three core principles of evolution - variation,heredity and differential fitness - are the foundation of evolutionary theory.`
+
+![network-based](https://www.cell.com/cms/attachment/82e72595-e6f7-4b27-96b5-5993a7ea43f6/gr1.jpg)
+
+> (1) extinction, 
+> (2) divergence, 
+> (3) coalescence,
+> (4) intralineage molecular interactions,
+> (5) DNA transfer intra-domain,
+> (6) primary endosymbiosis,
+> (7) evolution of chimeric genes,
+> (8) primary endosymbiosis,
+> (9) massive inter-domain DNA transfer,
+> (10) introgression,
+> (11) secondary endosymbiosis. 
+> The gray network background describes nongenetic interactions between biotic entities/environmental processes.
+
+
+**4.1 Role of Extinction in Evolution**
+In the origins of species, Darwin made his view of exinction clear: "The extinction of a species is the permanent loss of a certain number of varieties, and the extinction of a variety is the permanent loss of a certain number of individuals." He saw three essential features.
+
+i) *Extinctions of species have ocurred gradually and continuously.* This is because the rate of extinction is greater than the rate of speciation. This is because of the **mass extinction** that occurred at the end of the **Permian period**. This mass extinction is thought to have been caused by a **volcanic eruption**.
+
+ii) *Species extinction is usually, though not always, caused by the failure of a species in competition with other species.* This is because of the **competitive exclusion principle**. This principle states that two species cannot occupy the same niche in the same environment for long. This is because one species will outcompete the other.
+
+iii) *The extinction of species is closely tied to the process of natural selection and is thus a major component of progressive evolution.* Thus as it seems to me, the manner in which single species and whole groups of species become extinct accords well with the theory of natural selection.
+
+In Darwin's finally summary of the Origin, Darwin listed the fundamental components or laws of the evolutionary process: *reproduction*,*inheritance*,*variation*,*selection*,*extinction* and *adaptation*.
