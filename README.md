@@ -53,22 +53,6 @@ The process of evolution of different species in a given geographical area start
 ### 4. Core Concepts of Evolution
 `The three core principles of evolution - variation,heredity and differential fitness - are the foundation of evolutionary theory.`
 
-![network-based](https://www.cell.com/cms/attachment/82e72595-e6f7-4b27-96b5-5993a7ea43f6/gr1.jpg)
-
-> (1) extinction, 
-> (2) divergence, 
-> (3) coalescence,
-> (4) intralineage molecular interactions,
-> (5) DNA transfer intra-domain,
-> (6) primary endosymbiosis,
-> (7) evolution of chimeric genes,
-> (8) primary endosymbiosis,
-> (9) massive inter-domain DNA transfer,
-> (10) introgression,
-> (11) secondary endosymbiosis. 
-> The gray network background describes nongenetic interactions between biotic entities/environmental processes.
-
-
 **4.1 Role of Extinction in Evolution**
 In the origins of species, Darwin made his view of exinction clear: "The extinction of a species is the permanent loss of a certain number of varieties, and the extinction of a variety is the permanent loss of a certain number of individuals." He saw three essential features.
 
